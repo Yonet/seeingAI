@@ -2,7 +2,8 @@
 
 ## Technology
 
-* [Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=github-seeingai-ayyonet)
+* [Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=aiml-8438-ayyonet)
+* [Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/?WT.mc_id=aiml-8438-ayyonet)
 * [Nest](https://github.com/nestjs/nest)
 
 ## Installation
